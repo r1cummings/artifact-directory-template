@@ -1,7 +1,7 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
-    "dockerhub-repository": "amfraenkel/fair-policing-project:latest",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
-    "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
+    "this-repository": "https://github.com/r1cummings/artifact-directory-template",
+    "project-repository": "https://github.com/justjk139/alzheimers_gene_analysis",
+    "dockerhub-repository": "r1cummin/alzheimers-gene-tools",
+    "project-website-url": "https://justjk139.github.io",
+    "project-website-code": "https://github.com/justjk139/justjk139.github.io"
 }
